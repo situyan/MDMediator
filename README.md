@@ -22,7 +22,10 @@ pod 'MDMediator'
 
 ## Author
 
-er2010hacker@163.com, er2010hacker@163.com
+SMH
+
+## Special Note
+***此版本仅供个人学习、测试使用！源版为[CTMediator](https://github.com/casatwy/CTMediator)***
 
 ## License
 

@@ -1,0 +1,16 @@
+PODS:
+  - MDMediator (0.1.0)
+
+DEPENDENCIES:
+  - MDMediator (from `../`)
+
+EXTERNAL SOURCES:
+  MDMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDMediator: e0d904823fd43e453ebf57f4b774f7b1845c2633
+
+PODFILE CHECKSUM: 6e1f1fdf76e8be27412ea14ff8f75ab250f907f7
+
+COCOAPODS: 1.11.3

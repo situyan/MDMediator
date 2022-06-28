@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/er2010hacker@163.com/MDMediator'
+  s.homepage         = 'https://github.com/situyan/MDMediator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'er2010hacker@163.com' => 'er2010hacker@163.com' }
-  s.source           = { :git => 'https://github.com/er2010hacker@163.com/MDMediator.git', :tag => s.version.to_s }
+  s.author           = { 'SMH' => 'er2010hacker@163.com' }
+  s.source           = { :git => 'git@github.com:situyan/MDMediator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
@@ -37,6 +37,5 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.frameworks = 'UIKit', 'CoreGraphics'
 end
